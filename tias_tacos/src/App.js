@@ -1,13 +1,13 @@
 import React from "react";
 import "./App.css";
-import Navbar from "./components/Navbar";
-import Home from './components/pages/Home';
+import Navbar from "./Components/Navbar";
+import Home from './Components/pages/Home';
 import { BrowserRouter as Router, Routes, Route} from "react-router-dom";
-import SignUp from "./components/pages/SignUp";
-import WebsiteServices from "./components/pages/WebsiteServices";
-import LogoPage from "./components/pages/LogoPage";
-import PhotoEditingPage from "./components/pages/PhotoEditingPage";
-import StationaryPage from "./components/pages/StationaryPage";
+import SignUp from "./Components/pages/SignUp";
+import WebsiteServices from "./Components/pages/WebsiteSevices";
+import LogoPage from "./Components/pages/LogoPage";
+import PhotoEditingPage from "./Components/pages/PhotoEditingPage";
+import StationaryPage from "./Components/pages/StationaryPage";
 
 function App() {
   return (
@@ -26,3 +26,5 @@ function App() {
     </>
   );
 }
+
+export default App;
