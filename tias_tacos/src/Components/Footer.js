@@ -12,7 +12,7 @@ function Footer() {
         </p>
       
         <div className='input-areas'>
-          <form action="http://formsubmit.co/tiastacos@gmail.com" method="POST">
+          <form action="http://formsubmit.co/kimparker2@yahoo.co.nz" method="POST">
             <input
               className='footer-input'
               name='email'
@@ -62,7 +62,7 @@ function Footer() {
             <img src="/images/Tias Tacos White Logo (1).png" alt="" width="240" height="160"/>
             </Link>
           </div>
-          <small class='website-rights'>Find out more by click on these links</small>
+          <small class='website-rights'>Find out more by clicking on these links</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'

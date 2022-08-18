@@ -7,7 +7,7 @@ import './MainPage.css';
 function MainPage() {
   return (
     <div className='mainpage-container'>
-      <video src='/videos/tia_fLUKrDYO.mp4' autoPlay  />
+      <video src='/videos/Tia.mp4.mp4' autoPlay  />
       <h1>WELCOME TO TIA'S TACOS</h1>
       <br></br>
       <br></br>
