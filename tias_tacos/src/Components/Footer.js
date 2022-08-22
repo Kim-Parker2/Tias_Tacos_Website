@@ -12,7 +12,7 @@ function Footer() {
         </p>
       
         <div className='input-areas'>
-          <form action="http://formsubmit.co/kimparker2@yahoo.co.nz" method="POST">
+          <form action="http://formsubmit.co/kimparker2@yahoo.co.nz" method="POT">
             <input
               className='footer-input'
               name='email'
